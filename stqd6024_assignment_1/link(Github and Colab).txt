@@ -1,0 +1,3 @@
+Colab: https://colab.research.google.com/drive/14ypKf1XLasNHRQQ-y3p2z8-VdqEb6sFS?usp=sharing
+
+Github: https://github.com/Nefarian1/STQD6024-Machine-Learning/blob/20bd46e2b6f5cf3fca66e4b4d1e46fd0adf52748/STQD6024_Assignment_1.ipynb
